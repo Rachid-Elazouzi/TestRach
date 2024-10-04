@@ -1,0 +1,5 @@
+[AutoRun]
+Action=WiOpt'19 Proceedings
+Label=WiOpt'19
+shellexecute=index.html
+Icon=images\ieee.ico
